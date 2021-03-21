@@ -1,5 +1,5 @@
 ---
-ntp_timezone: America/Chicago
+ntp_timezone: Africa/Nairobi
 
 firewall_allowed_tcp_ports:
   - "22"
